@@ -1,0 +1,4 @@
+dependencies:
+- python
+- scikit-learn
+- RISE
