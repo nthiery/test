@@ -2,3 +2,6 @@ dependencies:
 - python
 - scikit-learn
 - RISE
+- pip
+- pip:
+  - https://gitlab.dsi.universite-paris-saclay.fr/nicolas.thiery/Laby.git
